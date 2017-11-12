@@ -1,0 +1,79 @@
+html, body{
+	font-family: Arial, Sans-serif;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+
+}
+h2{
+	font-size: 25px;
+	padding-top: 25px;
+
+}
+body{
+	text-align: left;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+	text-align: left;
+}
+
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>Lolka</h1>
+	</header>*/
+
+header{
+	background-color: #2367af;
+	padding: 60px 40px 1px 40px;
+	text-align: center;
+	/*background-image: url("http://cultura.hu/wp-content/uploads/2013/11/lolka-es-bolka.jpg");
+	*/
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 200px;
+	width: 400px;
+	border: 20px solid white;
+	max-width: 100%;
+
+
+}
+
+.big-image{
+	max-width: 100%;
+
+}
+
+.caption{
+	font-size: 20px;
+	color: grey;
+	font-style: italic;
+	margin-bottom: 40px;
+}
+
+footer ul{
+	list-style: none;
+}
+
+a{
+
+}
+footer{
+	background-color: #E6E6E6;
+	margin: 20px 140px;
+	padding: 1px 0;
+	text-align: center;
+}
+content li, ol, ul, p{
+	font-size: 22px;
+
+}
